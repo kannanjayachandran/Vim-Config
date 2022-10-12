@@ -43,3 +43,15 @@ To uninstall a plugin, remove the line from the `init.vim` file and run the foll
     :PlugClean
 
 ```
+
+### Plugins
+
+#### 1. vim-latex-live-preview
+
+This plugin allows you to preview your latex files in real time. To use it, first install the plugin and then run the following command in vim:
+
+```vim
+
+    :LLPStartPreview
+
+```
